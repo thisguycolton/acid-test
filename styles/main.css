@@ -1,0 +1,15 @@
+/*#vid1 {
+	height: 625px;
+	border-radius: 5px;
+}*/
+blockquote p {
+	font-family: Gentium Book Basic;
+	font-size: 25px!important;
+}
+
+.li-questions li{
+
+	font-size: 25px;
+	padding:10px;
+	text-align: center;
+}
